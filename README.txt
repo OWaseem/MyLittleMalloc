@@ -1,7 +1,6 @@
 
-Name: Omar Waseem
-NetID: omwll
-                                                            MY LITTLE MALLIC Project
+# MY LITTLE MALLIC Project
+# By: Omar Waseem
 
 Description:
 
