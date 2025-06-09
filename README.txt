@@ -1,5 +1,5 @@
 
-# MY LITTLE MALLIC Project
+# MY LITTLE MALLOC
 # By: Omar Waseem
 
 Description:
